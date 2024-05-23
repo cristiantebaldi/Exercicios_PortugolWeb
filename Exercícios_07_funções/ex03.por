@@ -7,7 +7,7 @@ programa {
 
     escreva(quadrado_numero(numero))
   }
-  funcao inteiro quadrado_numero(inteiro quadrado){
+  funcao cadeia quadrado_numero(inteiro quadrado){
     retorne "O quadrado de: " + quadrado + " é " + (quadrado * quadrado)
   }
 }

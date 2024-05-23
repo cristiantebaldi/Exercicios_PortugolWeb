@@ -8,7 +8,7 @@ programa {
     escreva(maioridade(y))
 
   } 
-  funcao inteiro maioridade(inteiro idade){
+  funcao cadeia maioridade(inteiro idade){
     se(idade > 17){
       retorne "Você é Maior de Idade"
     }

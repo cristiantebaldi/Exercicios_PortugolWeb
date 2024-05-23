@@ -7,10 +7,10 @@ programa {
   escreva("Digite o 2º número: ")
   leia(numero2)
 
-  escreva(soma_de_dois_numeros(numero1, numero2))
+  escreva("A soma é: ", soma_de_dois_numeros(numero1, numero2))
   }
   
   funcao inteiro soma_de_dois_numeros(inteiro n1, inteiro n2){
-    retorne "A soma é: "  + (n1 + n2)
+    retorne (n1 + n2)
   }
 }

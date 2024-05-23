@@ -11,7 +11,7 @@ programa {
   escreva(maior_de_dois_numeros(dois_numeros[0], dois_numeros[1]))
   
   }
-  funcao inteiro maior_de_dois_numeros(inteiro n1, inteiro n2){
+  funcao cadeia maior_de_dois_numeros(inteiro n1, inteiro n2){
     se(n1 > n2){
       retorne "O " + n1 + " é maior."
     }

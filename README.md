@@ -1,2 +1,2 @@
 # Exercicios_PortugolWeb
- Exercícios realizado durante o curso técnico de Desenvolvimento de Sistemas
+ Exercícios realizado durante o curso técnico em Desenvolvimento de Sistemas
